@@ -5,6 +5,9 @@ $(document).ready(function(){
     $("#light").click(function(){
     $("#d").css("backgroundColor","#000000");
     });
+    $("#foo").click(function(){
+       $("#fade").fadeOut("slow"); 
+    });
 });
 
 $(document).ready(function(){
