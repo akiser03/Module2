@@ -1,4 +1,4 @@
-body{
+#d{
     background-color: #000000;
 }
         .title{
@@ -27,6 +27,9 @@ body{
             margin-top: 20px;
             
         }
+#info{
+    visibility: hidden;
+}
         .divp{
             padding-left: 5px;
             padding-right: 5px;
