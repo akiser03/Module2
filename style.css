@@ -1,13 +1,11 @@
+body{
+    background-color: #000000;
+}
         .title{
             background: linear-gradient(#49708f, #293f50);
-        }
-        .top{
-            color: rgba(220, 20, 60, 0.88);
-            margin: auto;
             text-align: center;
-            padding-top: 10px;
-            padding-bottom: 10px;
         }
+        
         .backpic{
             position: absolute;
             width: 410px;
